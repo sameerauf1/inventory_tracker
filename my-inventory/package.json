@@ -14,6 +14,7 @@
     "@mui/material": "^6.1.2",
     "firebase": "^10.14.0",
     "next": "14.2.14",
+    "nodeenv": "^3.0.75",
     "react": "^18",
     "react-dom": "^18"
   },
